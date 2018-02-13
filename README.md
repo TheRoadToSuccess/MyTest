@@ -1,2 +1,2 @@
 # MyTest
-it's just a test
+[[fan/index.html|MarkdownFull]]
